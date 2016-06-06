@@ -1,5 +1,5 @@
-##GoDang-AI<br/>
- ####A simple Gobang game  based on HTML and JS.<br/>
+##GoDang-AI
+####A simple Gobang game  based on HTML and JS.
  
  根据慕课网学习敲的代码，主要实现如下功能：
  
