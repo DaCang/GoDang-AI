@@ -13,3 +13,4 @@
   
 5.   定义computerAI
  
+6.   test github pull
